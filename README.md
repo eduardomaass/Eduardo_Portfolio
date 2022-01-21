@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Eduardo_Portfolio
 
-You can use the [editor on GitHub](https://github.com/eduardomaass/Eduardo_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Projeto 1: Investimentos - Fronteira Eficiente
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Projeto com o objetivo de determinar a Fronteira Eficiente para um grupo de ativos.
 
-### Markdown
+* Foi considerada a taxa SELIC do último dia útil de 2021.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Foram consideradas as cotações históricas do ano de 2021 para todos os ativos, extraídas do site Yahoo Finance.
 
-```markdown
-Syntax highlighted code block
+* Os ativos analisados foram escolhidos de forma aleatória, a partir da composição do IBOV.
 
-# Header 1
-## Header 2
-### Header 3
+* O retorno esperado de um ativo é a média dos retornos da série histórica.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardomaass/Eduardo_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* O risco de um ativo é o desvio-padrão dos retornos da série histórica.
