@@ -8,4 +8,4 @@
 
 * A manipulação dos dados foi feita utilizando as bibliotecas Pandas e Numpy. Os gráficos foram gerados utilizando as bibliotecas Matplotlib e Seaborn.
 
-![](Investimentos/images/Fronteira%20Eficiente.png)
+![](/Investimentos/images/Fronteira%20Eficiente.png)
