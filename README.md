@@ -1,6 +1,4 @@
-# Eduardo_Portfolio
-
-# Investimentos - Fronteira Eficiente
+# Projeto 1: Investimentos - Fronteira Eficiente
 
 * A composição da carteira de investimentos é uma dúvida tanto de investidores iniciantes, de pequena escala, quanto de diretorias de grandes empresas. A vasta quantidade de ativos financeiros disponíveis chega a assustar e pode dificultar na escolha de quais ativos farão parte da carteira, e em qual proporção. 
 
