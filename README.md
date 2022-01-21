@@ -1,4 +1,4 @@
-# [Projeto 1: Investimentos - Fronteira Eficiente](https://github.com/eduardomaass/Investimentos)
+# [Projeto 1: Investimentos - Fronteira Eficiente](https://github.com/eduardomaass/Investimentos/blob/main/Fronteira%20Eficiente.ipynb)
 
 * A composição da carteira de investimentos é uma dúvida tanto de investidores iniciantes, de pequena escala, quanto de diretorias de grandes empresas. A vasta quantidade de ativos financeiros disponíveis chega a assustar e pode dificultar na escolha de quais ativos farão parte da carteira, e em qual proporção. 
 
