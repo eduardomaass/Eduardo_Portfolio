@@ -10,6 +10,8 @@
 
 ![](/images/Fronteira_Eficiente.png)
 
+
+
 # [Projeto 2: NBA Shots 2020-2021](https://github.com/eduardomaass/NBA-Shots-2020-2021)
 
 * Durante a década de 2010 a NBA passou por uma revolução de dados e estatísticas. Cada vez mais estão sendo utilizados indicadores que mostram o impacto das decisões dos jogadores sobre o resultados final das partidas. Um reflexo dessa revolução de dados é o aumento dos arremessos de 3 pontos. Embora a probabilidade que um desses arremessos seja convertido seja menor, o ponto extra cria uma vantagem quando comparado aos demais tipos de arremesso. Uma forma de medir o quão bom é um arremesso é o Effective Field Goal Percentage (efg), uma medida que representa a porcentagem de arremessos convertidos de um jogador, aplicando um peso maior aos arremessos de 3 pontos devido ao ponto extra.
