@@ -22,4 +22,4 @@
 
 * [O dashboard pode ser acessado no seguinte link](https://public.tableau.com/app/profile/eduardo.maass/viz/NBAEfficiency2020-2021/Dashboard-NBAEfficiency2020-2021?publish=yes)
 
-![](/images/Dashboard - NBA Efficiency 2020-2021.png)
+![](/images/Dashboard%20-%20NBA%20Efficiency%202020-2021.png)
